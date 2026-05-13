@@ -157,5 +157,13 @@ sha256sum FILE_NAME
 
 
 <!-- RELEASES_START -->
+<div id="cx051--youtube-app"></div>
 
+### cx051--YouTube-App
+
+🔗 [source](https://github.com/cx051/YouTube-App) – [<code><small>v2.0.0</small></code>](https://github.com/cx051/YouTube-App/releases/tag/v2.0.0)
+
+| File | Size | Download |
+|------|------|----------|
+| `youtube_2.0.0_amd64.deb` | 87.8 MB | [⬇️ Download](https://raw.githubusercontent.com/aminel2009/LatestReleaseMirror/main/releases/cx051/YouTube-App/youtube_2.0.0_amd64.deb) |
 <!-- RELEASES_END -->
