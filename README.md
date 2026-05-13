@@ -157,6 +157,18 @@ sha256sum FILE_NAME
 
 
 <!-- RELEASES_START -->
+<div id="theassassin--appimagelauncher"></div>
+
+### TheAssassin--AppImageLauncher
+
+🔗 [source](https://github.com/TheAssassin/AppImageLauncher) – [<code><small>v3.0.0-beta-3</small></code>](https://github.com/TheAssassin/AppImageLauncher/releases/tag/v3.0.0-beta-3)
+
+| File | Size | Download |
+|------|------|----------|
+| `appimagelauncher_3.0.0-beta-2-gha287.96cb937_amd64.deb` | 36.2 MB | [⬇️ Download](https://raw.githubusercontent.com/aminel2009/LatestReleaseMirror/main/releases/TheAssassin/AppImageLauncher/appimagelauncher_3.0.0-beta-2-gha287.96cb937_amd64.deb) |
+
+---
+
 <div id="zen-browser--desktop"></div>
 
 ### zen-browser--desktop
