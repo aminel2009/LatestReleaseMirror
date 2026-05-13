@@ -1,6 +1,6 @@
 # See 'repos.txt.example' file
 
-cx051/YouTube-App|amd64.deb
-zen-browser/desktop|linux.mar
+zen-browser/desktop|zen-x86_64.AppImage
+
 
 
