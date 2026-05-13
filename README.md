@@ -166,4 +166,16 @@ sha256sum FILE_NAME
 | File | Size | Download |
 |------|------|----------|
 | `youtube_2.0.0_amd64.deb` | 87.8 MB | [⬇️ Download](https://raw.githubusercontent.com/aminel2009/LatestReleaseMirror/main/releases/cx051/YouTube-App/youtube_2.0.0_amd64.deb) |
+
+---
+
+<div id="zen-browser--desktop"></div>
+
+### zen-browser--desktop
+
+🔗 [source](https://github.com/zen-browser/desktop) – [<code><small>1.19.12b</small></code>](https://github.com/zen-browser/desktop/releases/tag/1.19.12b)
+
+| File | Size | Download |
+|------|------|----------|
+| `linux.mar` | 88.4 MB | [⬇️ Download](https://raw.githubusercontent.com/aminel2009/LatestReleaseMirror/main/releases/zen-browser/desktop/linux.mar) |
 <!-- RELEASES_END -->
