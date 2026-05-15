@@ -157,27 +157,14 @@ sha256sum FILE_NAME
 
 
 <!-- RELEASES_START -->
-<div id="theassassin--appimagelauncher"></div>
+<div id="hidden-node--gooserelayvpn-androidclient"></div>
 
-### TheAssassin--AppImageLauncher
+### Hidden-Node--GooseRelayVPN-AndroidClient
 
-🔗 [source](https://github.com/TheAssassin/AppImageLauncher) – [<code><small>v3.0.0-beta-3</small></code>](https://github.com/TheAssassin/AppImageLauncher/releases/tag/v3.0.0-beta-3)
-
-| File | Size | Download |
-|------|------|----------|
-| `appimagelauncher_3.0.0-beta-2-gha287.96cb937_amd64.deb` | 36.2 MB | [⬇️ Download](https://raw.githubusercontent.com/aminel2009/LatestReleaseMirror/main/releases/TheAssassin/AppImageLauncher/appimagelauncher_3.0.0-beta-2-gha287.96cb937_amd64.deb) |
-
----
-
-<div id="zen-browser--desktop"></div>
-
-### zen-browser--desktop
-
-🔗 [source](https://github.com/zen-browser/desktop) – [<code><small>1.19.12b</small></code>](https://github.com/zen-browser/desktop/releases/tag/1.19.12b)
+🔗 [source](https://github.com/Hidden-Node/GooseRelayVPN-AndroidClient) – [<code><small>v1.0.3</small></code>](https://github.com/Hidden-Node/GooseRelayVPN-AndroidClient/releases/tag/v1.0.3)
 
 | File | Size | Download |
 |------|------|----------|
-| `zen-x86_64.AppImage.zsync` | 202 KB | [⬇️ Download](https://raw.githubusercontent.com/aminel2009/LatestReleaseMirror/main/releases/zen-browser/desktop/zen-x86_64.AppImage.zsync) |
-| `zen-x86_64.AppImage (part 1 of 2)` | 90.0 MB | [⬇️ Download (Part 1)](https://raw.githubusercontent.com/aminel2009/LatestReleaseMirror/main/releases/zen-browser/desktop/zen-x86_64.AppImage.001) |
-| `zen-x86_64.AppImage (part 2 of 2)` | 25.5 MB | [⬇️ Download (Part 2)](https://raw.githubusercontent.com/aminel2009/LatestReleaseMirror/main/releases/zen-browser/desktop/zen-x86_64.AppImage.002) |
+| `GooseRelayVPN-HN-1.0.3-arm64-v8a-release.apk` | 11.0 MB | [⬇️ Download](https://raw.githubusercontent.com/aminel2009/LatestReleaseMirror/main/releases/Hidden-Node/GooseRelayVPN-AndroidClient/GooseRelayVPN-HN-1.0.3-arm64-v8a-release.apk) |
+| `GooseRelayVPN-HN-1.0.3-universal-release.apk` | 37.6 MB | [⬇️ Download](https://raw.githubusercontent.com/aminel2009/LatestReleaseMirror/main/releases/Hidden-Node/GooseRelayVPN-AndroidClient/GooseRelayVPN-HN-1.0.3-universal-release.apk) |
 <!-- RELEASES_END -->
