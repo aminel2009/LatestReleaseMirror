@@ -1,5 +1,3 @@
 # See 'repos.txt.example' file
 
-zen-browser/desktop|zen-x86_64.AppImage
-TheAssassin/AppImageLauncher|amd64.deb
-
+Hidden-Node/GooseRelayVPN-AndroidClient|arm64-v8a-release.apk
